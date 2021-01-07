@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TestMinesweeper</string>
+    <string name="bomb">💣</string>
+    <string name="flag">🏴</string>
+    <string name="smiley_restart">☺️</string>
+    <string name="default_count">000</string>
+    <string name="time">Time</string>
+    <string name="mines">Mines</string>
+    <string name="restart">Restart</string>
+    <string name="flag_btn_txt">Flag</string>
+    <string name="minesweeper">Minesweeper</string>
+    <string name="level_easy">Easy</string>
+    <string name="level_medium">Medium</string>
+    <string name="level_hard">Hard</string>
+    <string name="or">Or</string>
+    <string name="make_a_custom_board">Make a Custom Board</string>
+    <string name="enter_the_number_of_rows">Enter the number of rows</string>
+    <string name="start">Start</string>
+    <string name="enter_the_number_of_columns">Enter the number of columns</string>
+    <string name="enter_the_number_of_mines">Enter the number of mines</string>
+</resources>
